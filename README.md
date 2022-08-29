@@ -1,0 +1,1 @@
+# 6-Iris-DataSet-apply-Naive_bayes-algorithm-and-ploting
